@@ -24,6 +24,8 @@ My name is João Vitor Junqueira Santana. I´m currently looking for a Backend D
 - Waking up earlier (currently at 6 a.m)
 - Do at least 90 push ups
 
+Stacks: Linux, Git, Docker, MySql, Node.js, Javascript, Typescript, Express, JWT
+
 Contacts: 
 
 Linkedin: https://www.linkedin.com/in/joaovjunqueira/
