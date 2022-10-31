@@ -16,6 +16,18 @@ Here are some ideas to get you started:
 -->
 My name is João Vitor Junqueira Santana. I´m currently looking for a Backend Developer job, while I´m still studyng at Trybe. For now I´m studyng Object Oriented Programming using Typescript.
 
+#### 🌱 Things I am currently working on: 
+- Finish my FullStack Developer course at Trybe 
+- Taking online courses about Information Security
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier (currently at 6 a.m)
+- Do at least 90 push ups
+
 Contacts: 
+
 Linkedin: https://www.linkedin.com/in/joaovjunqueira/
+
 Email: vitjunqueira38@gmail.com
+
+Inspired by: https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/elaborate/FernandoRoldan93.md
