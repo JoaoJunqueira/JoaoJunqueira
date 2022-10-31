@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is João Vitor Junqueira Santana. I´m currently looking for a Backend Developer job, while I´m still studyng at Trybe. For now I´m studyng Object Oriented Programming using Typescript.
+
+Contacts: 
+Linkedin: https://www.linkedin.com/in/joaovjunqueira/
+Email: vitjunqueira38@gmail.com
